@@ -10,7 +10,7 @@ A simple c++ project read rtsp stream and send fMp4 with websocket;
 
 ## relateted
 
-[https://www.z4none.me/post/2020/stream-live-video-on-website/](https://www.z4none.me/post/2020/stream-live-video-on-website/)
+[https://www.z4none.me/stream-live-video-websocket/](https://www.z4none.me/stream-live-video-websocket/)
 
 ---
 
@@ -26,4 +26,4 @@ A simple c++ project read rtsp stream and send fMp4 with websocket;
 
 ## relateted
 
-[https://www.z4none.me/post/2020/stream-live-video-on-website/](https://www.z4none.me/post/2020/stream-live-video-on-website/)
+[https://www.z4none.me/stream-live-video-websocket/](https://www.z4none.me/stream-live-video-websocket/)
