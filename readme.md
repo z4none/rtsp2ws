@@ -1,3 +1,5 @@
+
+
 # rtsp2ws
 
 A simple c++ project read rtsp stream and send fMp4 with websocket;
@@ -8,7 +10,7 @@ A simple c++ project read rtsp stream and send fMp4 with websocket;
 * run rtsp2ws.exe, an SDL video window will popup;
 * open chrome visit http://127.0.0.1:9000, the same video should be playing in the page;
 
-## relateted
+## related
 
 [https://www.z4none.me/stream-live-video-websocket/](https://www.z4none.me/stream-live-video-websocket/)
 
@@ -24,6 +26,6 @@ A simple c++ project read rtsp stream and send fMp4 with websocket;
 * 运行rtsp2ws.exe，一个SDL视频窗口会弹出。
 * 打开chrome，访问http://127.0.0.1:9000，页面中应该会播放相同的视频。
 
-## relateted
+## related
 
 [https://www.z4none.me/stream-live-video-websocket/](https://www.z4none.me/stream-live-video-websocket/)
